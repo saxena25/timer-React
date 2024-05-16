@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-
+//after  trying multiple time but didn't get the scroll event.
 function Scroll(){
     const[scroll,setScroll] = useState(0);
 
